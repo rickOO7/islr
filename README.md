@@ -1,2 +1,2 @@
-# islr
-ISLR in Python
+# ISLR
+ISLR Exercises done in Python
